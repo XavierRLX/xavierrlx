@@ -1,5 +1,4 @@
 ## Olá, Sou o Renan Xavier e faço parte dos devs!
-<div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?XavierRLx=anuraghazra&count_private=true)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?XavierRLX=anuraghazra&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
@@ -16,7 +15,3 @@
   <a href="https://instagram.com/yxavier_rlx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
  
   <div> 
-  
-  
- 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?XavierRLX=anuraghazra&show_icons=true&theme=radical)
