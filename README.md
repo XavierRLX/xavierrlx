@@ -1,5 +1,6 @@
 ## Olá, Sou o Renan Xavier e faço parte dos devs!
 <div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/XavierRLX">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xavierrlx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierrlx&layout=compact&langs_count=7&theme=dark"/>
